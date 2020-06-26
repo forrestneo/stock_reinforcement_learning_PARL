@@ -1,4 +1,4 @@
-# Stock Trading Market OpenAI Gym Environment with DDPG 
+# Stock Trading Market OpenAI Gym Environment with PARL
 
 ## Overview
 base on :
@@ -30,4 +30,7 @@ GET DATA:
 run:
 
         $ python DDPG_STOCK.py
+	
+	$ python DQN_STOCK.py
+
         
