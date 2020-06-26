@@ -26,6 +26,8 @@ base on :
 GET DATA:
 
 	$ python get_stock_data.py
+	
 run:
+
         $ python DDPG_STOCK.py
         
