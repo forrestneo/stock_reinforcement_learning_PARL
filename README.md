@@ -6,8 +6,11 @@ base on :
 ## Reference
 
 [1] https://github.com/wangshub/RL-Stock
+
 [2] https://github.com/kh-kim/stock_market_reinforcement_learning
+
 [3] https://github.com/PaddlePaddle/Paddle
+
 [4] https://github.com/PaddlePaddle/PARL
 
 
